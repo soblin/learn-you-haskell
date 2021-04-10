@@ -1,0 +1,3 @@
+[submodule "IHaskell"]
+	path = IHaskell
+	url = git@github.com:soblin/learn-you-haskell.git
